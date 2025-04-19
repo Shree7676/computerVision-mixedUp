@@ -1,0 +1,10 @@
+*.h5
+fer2013.csv
+details.json
+encoding.json
+keras-vggface
+mtcnn
+trained_models
+data_downloading.py
+data_generator.py
+label_and_dir.py
